@@ -1,1 +1,4 @@
 body .redesigned-theme-2018 #logo a { background-position:center center !important;}
+body .redesigned-theme-2018 .wufoo header.info div.leftFormProp { font-size:16px !important;}
+
+body > #container { max-width:800px !important;}
